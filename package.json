@@ -18,5 +18,10 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "4.8.4"
+  },
+  "devDependencies": {
+    "@argos-ci/cli": "^0.2.5",
+    "@argos-ci/cypress": "0.0.5",
+    "cypress": "^11.0.1"
   }
 }
